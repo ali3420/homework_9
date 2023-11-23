@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: auto;
+  max-width: 1062px;
+}
+
+.block {
+  background-color: rgb(238, 238, 238);
+  border: 1px solid black;
+  margin: 30px;
+  padding: 10px;
+  overflow: auto;
+}
+
+.block__item {
+  background-color: rgb(204, 204, 204);
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.h-220 {
+  height: 220px;
+}
+
+.m-440 {
+  margin-left: 440px;
+
+}
+
+.m-560 {
+  margin-left: 560px;
+}
+
+.m-750 {
+  margin-left: 750px;
+}
