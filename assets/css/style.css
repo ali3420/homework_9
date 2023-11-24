@@ -6,7 +6,7 @@
 
 .container {
   margin: auto;
-  max-width: 1062px;
+  max-width: 1100px;
 }
 
 .block {
@@ -48,4 +48,8 @@
 
 .m-750 {
   margin-left: 750px;
+}
+
+.m-900 {
+  margin-left: 870px;
 }
