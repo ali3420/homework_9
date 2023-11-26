@@ -9,6 +9,14 @@
   max-width: 1100px;
 }
 
+.container-2 {
+  margin-left: calc(50% - 120px);
+}
+
+.container-3 {
+  margin-left: calc(100% - 250px);
+}
+
 .block {
   background-color: rgb(238, 238, 238);
   border: 1px solid black;
@@ -34,22 +42,14 @@
 }
 
 .h-220 {
-  height: 220px;
+  height: 221px;
 }
 
-.m-440 {
-  margin-left: 440px;
-
+.m1 {
+  margin-left: 13px;
 }
 
-.m-560 {
-  margin-left: 560px;
-}
-
-.m-750 {
-  margin-left: 750px;
-}
-
-.m-900 {
-  margin-left: 870px;
+.m2 {
+  margin-top: 132px;
+  margin-left: -110px;
 }
